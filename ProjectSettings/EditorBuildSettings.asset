@@ -11,4 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game Scenes/MapLand_Scene_2.unity
     guid: ab1d4c89374876747921f78d69c9fa0b
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: bc63ef60ef36842449fc4aaa3dcbdebb, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: e90b7e20abf51624197115d64d102060, type: 2}
